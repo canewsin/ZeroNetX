@@ -1,6 +1,8 @@
 # ZeroNetX
 Rust Implementation of ZeroNet Protocol
 
+Source Code Available at https://github.com/canewsin/zeronet-rs
+
 Currently this is just a non active cmd line tool. You can use available commands to execute things.
 
 ## Features:
