@@ -6,24 +6,36 @@ Source Code Available at https://github.com/canewsin/zeronet-rs
 Currently this is just a non active cmd line tool. You can use available commands to execute things.
 
 ## Features:
+ - Site Create => Create New Site
  - Site Download => Download Site from internet peers
+ - Site Need File => Download Site Single(Inner) File from peers
  - Find Peers via Trackers => Discover Peers using torrent tracker network
+ - Site Sign => sign changes in site files
  - Site Verify => verify content file hashes with files
  - PeerExchange => Get more peers from connected peers
- - DbRebuild => Build db from data files using dbschema.json
+ - PeerPing => Get peer alive status
+ - dbRebuild => Build db from data files using dbschema.json
+ - dbQuery => Sql Query on built db to fetch data
+ - getConfig => Client Config data
  
 ## Available Commands:
+ - siteCreate
  - siteDownload
+ - siteNeedFile
  - siteFindPeers
- - dbRebuild
  - sitePeerExchange
  - siteFetchChanges
+ - siteSign
  - siteVerify
+ - peerPing
+ - dbRebuild
+ - dbQuery
+ - getConfig
 
 pass -s "Your Site Address" for above commands
 
 ## Download :
-Latest Packages Available on [Github Releases](https://github.com/canewsin/ZeroNetX/releases/latest).
+Latest Packages Available on [Github Releases](https://github.com/canewsin/zeronet-rs/releases/latest).
 
 ## Usage :
 ### Window :
