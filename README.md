@@ -1,7 +1,7 @@
 # ZeroNetX
 Rust Implementation of ZeroNet Protocol
 
-This Repo is Archived because Source Code Available at https://github.com/canewsin/zeronet-rs, thus new releases are also availble in that repo.
+# This Repo is Archived because Source Code Available at https://github.com/canewsin/zeronet-rs, thus new releases are also availble in that repo.
 
 Currently this is just a non active cmd line tool. You can use available commands to execute things.
 
